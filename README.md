@@ -37,7 +37,7 @@ A ativação/utilização deste componente é feita por *intent, que é um tipo 
 
 **Por exemplo, quando é preciso abrir uma segunda activity a partir de uma primeira activity utiliza-se a **INTENT** e são as intents passadas no método **startActivity(intent) ou startActivityForResult(intent)** que definem qual ação será executada.
 
-![Screenshot 2022-12-28 at 11.28.20.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f89e7313-3067-40d9-b6ab-8c1247be94a4/Screenshot_2022-12-28_at_11.28.20.png)
+
 
 Para fechar uma activity, utiliza-se o método **finish().**
 
